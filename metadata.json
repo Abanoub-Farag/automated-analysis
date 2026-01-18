@@ -1,0 +1,26 @@
+{
+    "columns": {
+        "id": {
+            "dtype": "int64",
+            "business_type": "id"
+        },
+        "email": {
+            "dtype": "string"
+        },
+        "first": {
+            "dtype": "string"
+        },
+        "last": {
+            "dtype": "string"
+        },
+        "company": {
+            "dtype": "string"
+        },
+        "created_at": {
+            "dtype": "date"
+        },
+        "country": {
+            "dtype": "string"
+        }
+    }
+}
